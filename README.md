@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [devhosein.fun](devhosein.fun)
 
-- 💬 Ask me about **ReactJS, TypeScipt**
+- 💬 Ask me about **ReactJS, TypeScript**
 
 - 📫 How to reach me **moradih7379@gmail.com**
 
