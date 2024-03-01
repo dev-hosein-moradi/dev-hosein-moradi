@@ -1,23 +1,21 @@
-[![MasterHead](https://images.hdqwalls.com/download/boat-moon-minimal-landscape-5k-3f-1000x400.jpg)](https://devhosein.fun)
+[![MasterHead](https://images.hdqwalls.com/download/boat-moon-minimal-landscape-5k-3f-1000x400.jpg)](https://homodev.ir)
 <h1 align="center">Hi 👋, I'm Hosein Moradi</h1>
-<h3 align="center">A passionate and capable front end developer from Iran</h3>
+<h3 align="center">A passionate and capable Fullstack developer from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-hosein-moradi&label=Profile%20views&color=0e75b6&style=flat" alt="dev-hosein-moradi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-hosein-moradi" alt="dev-hosein-moradi" /></a> </p>
 
-- 🔭 I’m currently working on [Freelancing work](devhosein.fun)
+- 🔭 I’m currently working on [Freelancing work](homodev.ir)
 
-- 🌱 I’m currently learning **React.js,TypeScript, Next.js, Tailwind**
+- 🌱 I’m currently learning **TypeScript - Next.js - .NET - **
 
-- 👨‍💻 All of my projects are available at [devhosein.fun](devhosein.fun)
+- 👨‍💻 All of my projects are available at [homodev.ir](homodev.ir)
 
-- 💬 Ask me about **ReactJS, TypeScript**
+- 💬 Ask me about **ReactJS - TypeScript - ASP.NET**
 
 - 📫 How to reach me **moradih7379@gmail.com**
-
-- 📄 Know about my experiences [shorturl.at/uwFW3](shorturl.at/uwFW3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
