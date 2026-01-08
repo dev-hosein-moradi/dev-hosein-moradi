@@ -1,37 +1,236 @@
-[![MasterHead](https://images.hdqwalls.com/download/boat-moon-minimal-landscape-5k-3f-1000x400.jpg)](https://hosseinmoradi.ir)
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
-<h1 align="center">Hi 👋, I'm Hossein Moradi</h1>
-<h3 align="center">A passionate full-stack developer from Iran</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hossein%20Moradi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&descSize=18)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-hosein-moradi&label=Profile%20views&color=0e75b6&style=flat" alt="dev-hosein-moradi" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Hey! +I'm+Hossein+Moradi+👋;Full-Stack+Developer+from+Iran+🇮🇷;Building+Scalable+Web+%26+Mobile+Solutions;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-hosein-moradi" alt="dev-hosein-moradi" /></a> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-hosseinmoradi.ir-blue? style=for-the-badge&logo=google-chrome)](https://hosseinmoradi.ir/)
+[![Email](https://img.shields.io/badge/Email-moradih7379@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:moradih7379@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hosein-moradi-4a3251232/)
 
-- 🔭 I’m currently working at [Kermanmotor Company](https://kermanmotor.com/)
+![Profile Views](https://komarev.com/ghpvc/?username=dev-hosein-moradi&label=Profile%20Views&color=brightgreen&style=for-the-badge)
 
-- 🌱 I’m currently learning **Django**
+</div>
 
-- 👯 I’m looking to collaborate on [freelancer project or team](https://hosseinmoradi.ir/)
+---
 
-- 👨‍💻 All of my projects are available at [https://hosseinmoradi.ir/](https://hosseinmoradi.ir/)
+## 👨‍💻 About Me
 
-- 💬 Ask me about **Programming**
+```yaml
+name: Hossein Moradi
+located_in: Iran
+current_workplace: Kermanmotor Company
+education:  ["Computer Science", "Self-Taught Developer"]
+currently_learning: ["Django", "Advanced Backend Architecture", "System Design"]
+fields_of_interests: 
+  - Full-Stack Development
+  - Mobile App Development
+  - Backend Architecture
+  - UI/UX Design
+  - DevOps & CI/CD
+  - Open Source Contribution
+  
+2026_goals: 
+  - Contribute to major open-source projects
+  - Master Django and Django REST Framework
+  - Build scalable microservices architecture
+  - Expand freelance portfolio
+```
 
-- 📫 How to reach me **moradih7379@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 📄 Know about my experiences [https://hosseinmoradi.ir/](https://hosseinmoradi.ir/)
+### 🚀 What I Do
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hosein-moradi-4a3251232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hosein-moradi-4a3251232/" height="30" width="40" /></a>
-</p>
+- 🏢 **Full-Stack Developer** at [Kermanmotor Company](https://kermanmotor.com/)
+- 💼 Open to **freelance projects** and **team collaborations**
+- 🌐 Building **production-ready** web and mobile applications
+- 📱 Creating **React Native** and **Expo** mobile solutions
+- ⚡ Developing **RESTful APIs** and **microservices**
+- 🎯 Focused on **clean code**, **best practices**, and **scalable architecture**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-hosein-moradi&show_icons=true&locale=en&layout=compact" alt="dev-hosein-moradi" /></p>
+## 🛠️ Tech Stack & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-hosein-moradi&show_icons=true&locale=en" alt="dev-hosein-moradi" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-hosein-moradi&" alt="dev-hosein-moradi" /></p>
+### 💻 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A? style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D? style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔧 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev-hosein-moradi&theme=nord&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 Contribution Stats
+<img width="49%" src="https://github-readme-stats.vercel.app/api? username=dev-hosein-moradi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-hosein-moradi&theme=tokyonight&hide_border=true" />
+
+### 💻 Most Used Languages
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hosein-moradi&theme=tokyonight&layout=compact&hide_border=true&langs_count=10" />
+
+### 📊 Contribution Graph
+[![Hossein's github activity graph](https://github-readme-activity-graph.vercel.app/graph? username=dev-hosein-moradi&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🎯 GitHub Metrics
+
+![Metrics](https://metrics.lecoq.io/dev-hosein-moradi? template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&habits=1&followup=1&code=1&activity=1&achievements=1&notable=1&repositories=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7. 5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories. limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages. limit=8&habits.languages. threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup. archived=true&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&repositories. featured=dev-hosein-moradi%2Fportfolio&config.timezone=Asia%2FTehran)
+
+</div>
+
+---
+
+## 🎯 Recent Activity & Contributions
+
+<div align="center">
+
+### 📌 Highlighted Stats
+![GitHub Pull Requests](https://img.shields.io/badge/Pull_Requests-181%2B-blue?style=for-the-badge&logo=github)
+![Code Reviews](https://img.shields.io/badge/Code_Reviews-Expert-success?style=for-the-badge&logo=github)
+![Active Projects](https://img.shields.io/badge/Active_Projects-Multiple-orange?style=for-the-badge&logo=github)
+
+**Note:** I have **181+ merged pull requests** demonstrating consistent contribution to production codebases!  🚀
+
+### 🔥 Recent Contributions Include:
+- 🎨 Frontend development with **React** and **TypeScript**
+- 📱 Mobile app development with **React Native** and **Expo**
+- 🤖 Chatbot integration and real-time messaging systems
+- 🔧 Package management and dependency updates
+- 🐛 Bug fixes and performance optimizations
+- ♻️ Code refactoring and architecture improvements
+
+[View all contributions →](https://github.com/search?q=author: dev-hosein-moradi+is:pr&type=pullrequests)
+
+</div>
+
+---
+
+## 🏅 Certifications & Achievements
+
+<div align="center">
+
+| Achievement | Description |
+|-------------|-------------|
+| 🏢 **Professional Developer** | Full-time developer at Kermanmotor Company |
+| 💼 **Active Contributor** | 181+ merged pull requests across multiple projects |
+| 🚀 **Project Leadership** | Leading development on HcmNext and SkillBridge projects |
+| 📱 **Mobile Expert** | Specialized in React Native & Expo development |
+| 🔄 **CI/CD Practitioner** | Implementing modern DevOps workflows |
+
+</div>
+
+---
+
+## 💡 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/KmHcmNext/HcmNext-client">
+  <img align="center" src="https://github-readme-stats.vercel. app/api/pin/?username=KmHcmNext&repo=HcmNext-client&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/SkillBridge-ir/HcmNext-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SkillBridge-ir&repo=HcmNext-backend&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+### 💬 I'm Open To
+
+- 🚀 **Freelance Projects** - Full-stack web and mobile development
+- 👥 **Team Collaborations** - Open source and commercial projects
+- 🎓 **Mentorship** - Helping junior developers grow
+- 💡 **Innovative Ideas** - Building the next big thing together
+
+### 📫 How to Reach Me
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hosseinmoradi. ir-blue?style=for-the-badge)](https://hosseinmoradi.ir/)
+[![Email](https://img.shields.io/badge/📧_Email-moradih7379@gmail.com-red?style=for-the-badge)](mailto:moradih7379@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue? style=for-the-badge)](https://www.linkedin.com/in/hosein-moradi-4a3251232/)
+
+</div>
+
+---
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+Coming soon!  Stay tuned for technical articles and tutorials. 
+<!-- BLOG-POST-LIST: END -->
+
+---
+
+## 🎨 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/dev-hosein-moradi/dev-hosein-moradi/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💖 Show some love by starring ⭐ some of my repositories!
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
