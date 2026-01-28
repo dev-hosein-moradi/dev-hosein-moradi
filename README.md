@@ -2,9 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hossein%20Moradi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&descSize=18)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Hey! +I'm+Hossein+Moradi+👋;Full-Stack+Developer+from+Iran+🇮🇷;Building+Scalable+Web+%26+Mobile+Solutions;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Hossein+Moradi+👋;Full-Stack+Developer+from+Iran+🇮🇷;Building+Scalable+Web+%26+Mobile+Solutions;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hosseinmoradi.ir-blue? style=for-the-badge&logo=google-chrome)](https://hosseinmoradi.ir/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hosseinmoradi.ir-blue?style=for-the-badge&logo=google-chrome)](https://hosseinmoradi.ir/)
 [![Email](https://img.shields.io/badge/Email-moradih7379@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:moradih7379@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hosein-moradi-4a3251232/)
 
@@ -20,7 +20,7 @@
 name: Hossein Moradi
 located_in: Iran
 current_workplace: Kermanmotor Company
-education:  ["Computer Science", "Self-Taught Developer"]
+education: ["Computer Science", "Self-Taught Developer"]
 currently_learning: ["Django", "Advanced Backend Architecture", "System Design"]
 fields_of_interests: 
   - Full-Stack Development
@@ -59,14 +59,14 @@ fields_of_interests:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A? style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### ⚙️ Backend Development
@@ -80,7 +80,7 @@ fields_of_interests:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D? style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🔧 DevOps & Tools
@@ -104,18 +104,14 @@ fields_of_interests:
 [![trophy](https://github-profile-trophy.vercel.app/?username=dev-hosein-moradi&theme=nord&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 Contribution Stats
-<img width="49%" src="https://github-readme-stats.vercel.app/api? username=dev-hosein-moradi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dev-hosein-moradi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-hosein-moradi&theme=tokyonight&hide_border=true" />
 
 ### 💻 Most Used Languages
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hosein-moradi&theme=tokyonight&layout=compact&hide_border=true&langs_count=10" />
 
 ### 📊 Contribution Graph
-[![Hossein's github activity graph](https://github-readme-activity-graph.vercel.app/graph? username=dev-hosein-moradi&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 🎯 GitHub Metrics
-
-![Metrics](https://metrics.lecoq.io/dev-hosein-moradi? template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&habits=1&followup=1&code=1&activity=1&achievements=1&notable=1&repositories=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7. 5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories. limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages. limit=8&habits.languages. threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup. archived=true&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&repositories. featured=dev-hosein-moradi%2Fportfolio&config.timezone=Asia%2FTehran)
+[![Hossein's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-hosein-moradi&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -130,7 +126,7 @@ fields_of_interests:
 ![Code Reviews](https://img.shields.io/badge/Code_Reviews-Expert-success?style=for-the-badge&logo=github)
 ![Active Projects](https://img.shields.io/badge/Active_Projects-Multiple-orange?style=for-the-badge&logo=github)
 
-**Note:** I have **181+ merged pull requests** demonstrating consistent contribution to production codebases!  🚀
+**Note:** I have **181+ merged pull requests** demonstrating consistent contribution to production codebases! 🚀
 
 ### 🔥 Recent Contributions Include:
 - 🎨 Frontend development with **React** and **TypeScript**
@@ -140,7 +136,7 @@ fields_of_interests:
 - 🐛 Bug fixes and performance optimizations
 - ♻️ Code refactoring and architecture improvements
 
-[View all contributions →](https://github.com/search?q=author: dev-hosein-moradi+is:pr&type=pullrequests)
+[View all contributions →](https://github.com/search?q=author%3Adev-hosein-moradi+is%3Apr&type=pullrequests)
 
 </div>
 
@@ -166,13 +162,9 @@ fields_of_interests:
 
 <div align="center">
 
-<a href="https://github.com/KmHcmNext/HcmNext-client">
-  <img align="center" src="https://github-readme-stats.vercel. app/api/pin/?username=KmHcmNext&repo=HcmNext-client&theme=tokyonight&hide_border=true" />
-</a>
+### 🚀 Check out my repositories for more amazing projects!
 
-<a href="https://github.com/SkillBridge-ir/HcmNext-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SkillBridge-ir&repo=HcmNext-backend&theme=tokyonight&hide_border=true" />
-</a>
+[![Repositories](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-hosein-moradi?tab=repositories)
 
 </div>
 
@@ -191,9 +183,9 @@ fields_of_interests:
 
 ### 📫 How to Reach Me
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hosseinmoradi. ir-blue?style=for-the-badge)](https://hosseinmoradi.ir/)
-[![Email](https://img.shields.io/badge/📧_Email-moradih7379@gmail.com-red?style=for-the-badge)](mailto:moradih7379@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue? style=for-the-badge)](https://www.linkedin.com/in/hosein-moradi-4a3251232/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hosseinmoradi.ir-1e90ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hosseinmoradi.ir/)
+[![Email](https://img.shields.io/badge/Email-moradih7379@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moradih7379@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosein-moradi-4a3251232/)
 
 </div>
 
@@ -202,8 +194,8 @@ fields_of_interests:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-Coming soon!  Stay tuned for technical articles and tutorials. 
-<!-- BLOG-POST-LIST: END -->
+Coming soon! Stay tuned for technical articles and tutorials.
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
