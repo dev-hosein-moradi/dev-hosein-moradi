@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hossein%20Moradi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hossein%20Moradi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Hossein+Moradi+👋;Full-Stack+Developer+from+Iran+🇮🇷;Building+Scalable+Web+%26+Mobile+Solutions;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Hossein+Moradi+👋;Full-Stack+Developer+%7C+Automation+Builder;AI+Engineering+%7C+n8n+Workflows+%7C+Backend+Architecture;Always+learning+new+technologies+🚀" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hosseinmoradi.ir-blue?style=for-the-badge&logo=google-chrome)](https://hosseinmoradi.ir/)
 [![Email](https://img.shields.io/badge/Email-moradih7379@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:moradih7379@gmail.com)
@@ -21,20 +21,20 @@ name: Hossein Moradi
 located_in: Iran
 current_workplace: Kermanmotor Company
 education: ["Computer Science", "Self-Taught Developer"]
-currently_learning: ["Django", "Advanced Backend Architecture", "System Design"]
+currently_learning: ["n8n", "Automation Engineering", "AI Engineering", "LLM Workflows"]
 fields_of_interests: 
+  - AI Engineering
+  - Workflow Automation
   - Full-Stack Development
-  - Mobile App Development
   - Backend Architecture
-  - UI/UX Design
+  - Mobile App Development
   - DevOps & CI/CD
-  - Open Source Contribution
   
 2026_goals: 
-  - Contribute to major open-source projects
-  - Master Django and Django REST Framework
-  - Build scalable microservices architecture
-  - Expand freelance portfolio
+  - Build reliable AI-powered automation systems
+  - Master n8n workflow orchestration and integrations
+  - Design production-ready LLM workflows and agents
+  - Contribute to open-source automation and AI tools
 ```
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -42,11 +42,11 @@ fields_of_interests:
 ### 🚀 What I Do
 
 - 🏢 **Full-Stack Developer** at [Kermanmotor Company](https://kermanmotor.com/)
-- 💼 Open to **freelance projects** and **team collaborations**
+- 🤖 Building **AI-powered automations** with **n8n** and modern tooling
+- ⚙️ Designing **workflow orchestration** for real-world business processes
 - 🌐 Building **production-ready** web and mobile applications
 - 📱 Creating **React Native** and **Expo** mobile solutions
-- ⚡ Developing **RESTful APIs** and **microservices**
-- 🎯 Focused on **clean code**, **best practices**, and **scalable architecture**
+- 🎯 Focused on **clean code**, **scalable systems**, and **high-impact automation**
 
 ---
 
@@ -69,16 +69,16 @@ fields_of_interests:
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### ⚙️ Backend Development
+### ⚙️ Backend Development & Automation
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-ef6c00?style=for-the-badge&logo=n8n&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🗄�� Database & Cloud
+### 🗄️ Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -134,7 +134,7 @@ fields_of_interests:
 ### 🔥 Recent Contributions Include:
 - 🎨 Frontend development with **React** and **TypeScript**
 - 📱 Mobile app development with **React Native** and **Expo**
-- 🤖 Chatbot integration and real-time messaging systems
+- 🤖 AI-assisted tooling and workflow automation
 - 🔧 Package management and dependency updates
 - 🐛 Bug fixes and performance optimizations
 - ♻️ Code refactoring and architecture improvements
@@ -154,7 +154,7 @@ fields_of_interests:
 | 🏢 **Professional Developer** | Full-time developer at Kermanmotor Company |
 | 💼 **Active Contributor** | 181+ merged pull requests across multiple projects |
 | 🚀 **Project Leadership** | Leading development on HcmNext and SkillBridge projects |
-| 📱 **Mobile Expert** | Specialized in React Native & Expo development |
+| 🤖 **Automation Engineer** | Building AI and n8n workflow solutions |
 | 🔄 **CI/CD Practitioner** | Implementing modern DevOps workflows |
 
 </div>
@@ -179,7 +179,7 @@ fields_of_interests:
 
 ### 💬 I'm Open To
 
-- 🚀 **Freelance Projects** - Full-stack web and mobile development
+- 🚀 **Freelance Projects** - Full-stack, automation, and AI workflow development
 - 👥 **Team Collaborations** - Open source and commercial projects
 - 🎓 **Mentorship** - Helping junior developers grow
 - 💡 **Innovative Ideas** - Building the next big thing together
