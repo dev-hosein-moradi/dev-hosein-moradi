@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hosseinmoradi.ir-blue?style=for-the-badge&logo=google-chrome)](https://hosseinmoradi.ir/)
 [![Email](https://img.shields.io/badge/Email-moradih7379@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:moradih7379@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hosein-moradi-4a3251232/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/hossein-moradi-4a3251232)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dev-hosein-moradi&label=Profile%20Views&color=brightgreen&style=for-the-badge)
 
