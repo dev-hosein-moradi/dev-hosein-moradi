@@ -106,8 +106,8 @@ fields_of_interests:
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hosein-moradi&theme=tokyonight&layout=compact&hide_border=true&langs_count=10" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-hosein-moradi&theme=tokyonight" />
 
-### 📊 Contribution Graph
-[![Hossein's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-hosein-moradi&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📊 Contribution Overview
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=dev-hosein-moradi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hossein's GitHub contribution overview" />
 
 ### 🏆 GitHub Profile Summary
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-hosein-moradi&theme=tokyonight" />
@@ -198,11 +198,7 @@ Coming soon! Stay tuned for technical articles and tutorials.
 
 ## 💻 Contribution Activity
 
-<div align="center">
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-hosein-moradi&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-
-</div>
+See my latest contributions directly on [my GitHub profile](https://github.com/dev-hosein-moradi).
 
 ---
 
