@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hossein%20Moradi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Hossein+Moradi+👋;Full-Stack+Developer+%7C+Automation+Builder;AI+Engineering+%7C+n8n+Workflows+%7C+Backend+Architecture;Always+learning+new+technologies+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Hossein+Moradi+👋;Full-Stack+Software+Engineer;AI+Agents+%7C+RAG+%7C+n8n+Automation;Web+%7C+Mobile+%7C+Enterprise+Systems" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hosseinmoradi.ir-blue?style=for-the-badge&logo=google-chrome)](https://hosseinmoradi.ir/)
 [![Email](https://img.shields.io/badge/Email-moradih7379@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:moradih7379@gmail.com)
@@ -19,34 +19,27 @@
 ```yaml
 name: Hossein Moradi
 located_in: Iran
-current_workplace: Kermanmotor Company
-education: ["Computer Science", "Self-Taught Developer"]
-currently_learning: ["n8n", "Automation Engineering", "AI Engineering", "LLM Workflows"]
+current_workplace: Kerman Motor Company
+education: "B.Sc. Computer Engineering"
+currently_building: ["AI Agents", "RAG Systems", "n8n Automations"]
 fields_of_interests: 
   - AI Engineering
   - Workflow Automation
   - Full-Stack Development
-  - Backend Architecture
+  - Enterprise Software
   - Mobile App Development
   - DevOps & CI/CD
-  
-2026_goals: 
-  - Build reliable AI-powered automation systems
-  - Master n8n workflow orchestration and integrations
-  - Design production-ready LLM workflows and agents
-  - Contribute to open-source automation and AI tools
 ```
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🚀 What I Do
 
-- 🏢 **Full-Stack Developer** at [Kermanmotor Company](https://kermanmotor.com/)
-- 🤖 Building **AI-powered automations** with **n8n** and modern tooling
-- ⚙️ Designing **workflow orchestration** for real-world business processes
-- 🌐 Building **production-ready** web and mobile applications
-- 📱 Creating **React Native** and **Expo** mobile solutions
-- 🎯 Focused on **clean code**, **scalable systems**, and **high-impact automation**
+- 🏢 **Software Engineer** at [Kerman Motor Company](https://kermanmotor.com/) since May 2024
+- ⚙️ Developing enterprise MIS, reporting, internal portals, and employee applications
+- 🧩 Working with **C#**, **ASP.NET Core**, **SQL Server**, **React**, and **React Native**
+- 🤖 Building **AI agents**, **RAG systems**, and **n8n** automations
+- 🚀 Improving legacy systems, query performance, integrations, and background processing
 
 ---
 
@@ -76,14 +69,17 @@ fields_of_interests:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🗄️ Database & Cloud
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🔧 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -120,56 +116,44 @@ fields_of_interests:
 
 ---
 
-## 🎯 Recent Activity & Contributions
+## 🎯 Experience Highlights
 
 <div align="center">
 
-### 📌 Highlighted Stats
-![GitHub Pull Requests](https://img.shields.io/badge/Pull_Requests-181%2B-blue?style=for-the-badge&logo=github)
-![Code Reviews](https://img.shields.io/badge/Code_Reviews-Expert-success?style=for-the-badge&logo=github)
-![Active Projects](https://img.shields.io/badge/Active_Projects-Multiple-orange?style=for-the-badge&logo=github)
-
-**Note:** I have **181+ merged pull requests** demonstrating consistent contribution to production codebases! 🚀
-
-### 🔥 Recent Contributions Include:
-- 🎨 Frontend development with **React** and **TypeScript**
-- 📱 Mobile app development with **React Native** and **Expo**
-- 🤖 AI-assisted tooling and workflow automation
-- 🔧 Package management and dependency updates
-- 🐛 Bug fixes and performance optimizations
-- ♻️ Code refactoring and architecture improvements
-
-[View all contributions →](https://github.com/search?q=author%3Adev-hosein-moradi+is%3Apr&type=pullrequests)
+- 🏭 Built and maintained production systems for Kerman Motor, Bam Automakers, and Karmania.
+- 📊 Reworked high-volume reporting over millions of records using query optimization and background processing.
+- 🔌 Modernized legacy web services and improved error handling and integration reliability.
+- 👨‍🏫 Mentored colleagues in frontend development to improve team productivity.
 
 </div>
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🏅 Certifications
 
-<div align="center">
-
-| Achievement | Description |
-|-------------|-------------|
-| 🏢 **Professional Developer** | Full-time developer at Kermanmotor Company |
-| 💼 **Active Contributor** | 181+ merged pull requests across multiple projects |
-| 🚀 **Project Leadership** | Leading development on HcmNext and SkillBridge projects |
-| 🤖 **Automation Engineer** | Building AI and n8n workflow solutions |
-| 🔄 **CI/CD Practitioner** | Implementing modern DevOps workflows |
-
-</div>
+- [Next.js and TypeScript](https://faradars.org/verify/84DC841E) · FaraDars
+- [React and Node.js](https://faradars.org/verify/BD67ED8B) · FaraDars
+- [PostgreSQL](https://faradars.org/verify/6484683F) · FaraDars
+- [Network+](https://faradars.org/verify/0C382F60) · FaraDars
+- [C#](https://faradars.org/verify/449CB6E7) · FaraDars
+- [JavaScript](https://faradars.org/verify/F3E2810B) · FaraDars
+- [Python](https://faradars.org/verify/68ED3BD0) · FaraDars
+- [Responsive Web Design](https://www.freecodecamp.org/certification/hoseinmoradi/responsive-web-design) · freeCodeCamp
+- JavaScript Algorithms and Data Structures · freeCodeCamp
 
 ---
 
 ## 💡 Featured Projects
 
-<div align="center">
-
-### 🚀 Check out my repositories for more amazing projects!
-
-[![Repositories](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-hosein-moradi?tab=repositories)
-
-</div>
+| Project | Description | Stack |
+|---|---|---|
+| [Kerman Motor Employee App](https://github.com/dev-hosein-moradi) | Employee services app with HR, public relations, HSE, accounting, chat, chatbot, and admin dashboards. | React Native, Expo, TypeScript, Zustand, NativeWind |
+| Integrated Information Management System | MIS for production, quality, logistics, and support teams. | ASP.NET Core, C#, SQL Server, Entity Framework |
+| [CurtainGPT](https://curtaingpt.hosseinmoradi.ir) | AI agent that visualizes catalog curtains in a customer's room. | n8n, AI, Next.js, PostgreSQL, NextAuth |
+| [Amlakyar](https://amlakyar.hosseinmoradi.ir) | Multi-tenant real-estate SaaS with RAG assistants for messaging channels. | n8n, Next.js, PostgreSQL, RAG |
+| [KMC Charity Bazaar](https://kmc-bazarcheh.hosseinmoradi.ir) | Digitalized charity market sales, surveys, and lottery management. | Next.js, PostgreSQL |
+| [KMC Revayat](https://kmc-revayat.hosseinmoradi.ir) | Event management system for speakers and attendees. | Next.js, PostgreSQL |
+| [Asalouye Occupational Medicine](https://tebe-kar.skillbridge.ir) | Configurable psychological assessment platform for company employees. | Next.js, PostgreSQL |
 
 ---
 
